@@ -2,9 +2,9 @@
 
 I'm a computer engineering student at UBC. I'm interested in backend programming and distributed systems.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wchang22&show_icons=true&count_private=true&theme=vue-dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jacksonx9&show_icons=true&count_private=true&theme=vue-dark)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wchang22&layout=compact&langs_count=10&hide=qml,qmake&theme=vue-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonx9&layout=compact&langs_count=10&hide=qml,qmake&theme=vue-dark)
 
 <!--
 **jacksonx9/jacksonx9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
