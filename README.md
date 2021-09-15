@@ -1,6 +1,6 @@
 ### Hi, I'm Jackson
 
-I'm a computer engineering student at UBC mainly interested in backend programming and distributed systems.
+I'm a computer engineering student at UBC mainly interested in algorithms, backend programming and distributed systems.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jacksonx9&show_icons=true&count_private=true&theme=vue-dark)
 
